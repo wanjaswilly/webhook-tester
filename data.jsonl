@@ -1,0 +1,1 @@
+{"datetime":"2025-08-01 12:43:23","headers":{"Host":"localhost:8000","User-Agent":"curl\/8.5.0","Accept":"*\/*","Content-Type":"application\/json","Content-Length":"28"},"body":{"event":"test","value":123},"ip":"::1"}
